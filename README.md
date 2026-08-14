@@ -16,7 +16,9 @@ The tests are implemented using:
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository, install dependencies and start:
 
 ```bash
 npm install
+
+npm test

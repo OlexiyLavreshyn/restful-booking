@@ -6,12 +6,6 @@
   "scripts": {
     "test": "node --test tests/*.test.js"
   },
-  "keywords": [
-    "api",
-    "testing",
-    "restful-booker",
-    "fetch"
-  ],
   "author": "",
   "license": "ISC"
 }
